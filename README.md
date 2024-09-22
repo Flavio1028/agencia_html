@@ -9,19 +9,19 @@ Este é um projeto simples de um site responsivo, desenvolvido utilizando apenas
 
 ## Estrutura do Projeto
 
-/agencia_html
-│
-├── index.html          # Página principal do site
-├── img/                # Pasta para imagens
-│   ├── whats.png
-│   ├── hero_right.png
-│   ├── marketing.png
-│   ├── pc.png
-│   └── smartphone.png
-├── css/                # Pasta com os arquivos CSS do projeto
-│   ├── estilo.css
-│   └── responsivo.css
-└── README.md           # Documentação do projeto
+    /agencia_html
+    │
+    ├── index.html          # Página principal do site
+    ├── img/                # Pasta para imagens
+    │   ├── whats.png
+    │   ├── hero_right.png
+    │   ├── marketing.png
+    │   ├── pc.png
+    │   └── smartphone.png
+    ├── css/                # Pasta com os arquivos CSS do projeto
+    │   ├── estilo.css
+    │   └── responsivo.css
+    └── README.md           # Documentação do projeto
 
 
 ## Como Usar
